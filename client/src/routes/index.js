@@ -33,7 +33,7 @@ const router = new Router({
       },
     },
     {
-      path: "/yonomdle-sequence9Login",
+      path: "/adminLogin",
       name: "adminLogin",
       component: adminLogin,
       meta: {
@@ -65,7 +65,7 @@ const router = new Router({
       },
     },
     {
-      path: "/yonomdle-sequence9",
+      path: "/adminPage",
       name: "adminPage",
       component: Me,
       meta: {
@@ -138,7 +138,7 @@ const router = new Router({
       },
     },
     {
-      path: "/UpdateAccountyonomdle-sequence9",
+      path: "/updateAccount",
       name: "UpdateAccount",
       component: UpdateAccount,
       meta: {

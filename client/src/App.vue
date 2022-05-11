@@ -122,7 +122,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-  baseURL: "https://www.sequence9.com/server",
+  baseURL: "https://www.security.com/server",
 });
 
 export default {
